@@ -18,10 +18,10 @@ Estrutura do projeto:
 """
 
 # Importações dos módulos organizados
-from risco import *
-from validacao import *
-from analise import *
-from alertas import *
+from bibliotecas.risco import *
+from bibliotecas.validacao import *
+from bibliotecas.analise import *
+from bibliotecas.alertas import *
 
 def executar_questao_1():
     """
